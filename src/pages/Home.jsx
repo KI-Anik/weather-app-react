@@ -3,7 +3,6 @@ import LocationModal from "../components/LocationModal";
 
 const Home = () => {
     const [click, setClick] = useState(false)
-    console.log(click);
 
     return (
         <div>
